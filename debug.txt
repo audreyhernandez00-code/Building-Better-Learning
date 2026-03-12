@@ -1,0 +1,6 @@
+Date Built: 2026-03-12T19:54:46.421Z
+    
+VERCEL_GIT_COMMIT_SHA: abea21a1fdc16f35f3cfc400e250e4ddbfe05a28
+VERCEL_GIT_COMMIT_MESSAGE: Merge pull request #2955 from MindsmithAI/MIN-1034-upgrade-posthog-node
+
+chore: [MIN-1034] upgrade posthog-node from v3 to v5
